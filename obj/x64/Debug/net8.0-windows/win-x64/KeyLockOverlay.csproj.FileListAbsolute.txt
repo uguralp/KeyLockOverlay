@@ -1,0 +1,3 @@
+C:\Users\holyb\Downloads\KeyLockOverlay\obj\x64\Debug\net8.0-windows\win-x64\App.baml
+C:\Users\holyb\Downloads\KeyLockOverlay\obj\x64\Debug\net8.0-windows\win-x64\App.g.cs
+C:\Users\holyb\Downloads\KeyLockOverlay\obj\x64\Debug\net8.0-windows\win-x64\KeyLockOverlay_MarkupCompile.cache

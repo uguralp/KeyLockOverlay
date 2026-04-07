@@ -1,0 +1,5 @@
+C:\Users\holyb\Downloads\KeyLockOverlay\bin\Release\net8.0-windows\win-x64\publish\KeyLockOverlay.exe
+C:\Users\holyb\Downloads\KeyLockOverlay\bin\Release\net8.0-windows\win-x64\publish\KeyLockOverlay.dll
+C:\Users\holyb\Downloads\KeyLockOverlay\bin\Release\net8.0-windows\win-x64\publish\KeyLockOverlay.deps.json
+C:\Users\holyb\Downloads\KeyLockOverlay\bin\Release\net8.0-windows\win-x64\publish\KeyLockOverlay.runtimeconfig.json
+C:\Users\holyb\Downloads\KeyLockOverlay\bin\Release\net8.0-windows\win-x64\publish\KeyLockOverlay.pdb
